@@ -13,5 +13,7 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+        
+        //change added in git
     }
 }
