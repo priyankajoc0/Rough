@@ -8,5 +8,10 @@ public class SeleniumTest1
 		//add 
 		//making changes in git - SeleniumRough1
 	}
+	try {
+		
+	}
+	//adding few lines
+	//checking if rebase works git reset --hard HEAD~1
 	
 }
