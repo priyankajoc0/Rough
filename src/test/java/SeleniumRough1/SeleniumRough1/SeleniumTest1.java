@@ -12,6 +12,9 @@ public class SeleniumTest1
 		
 	}
 	
-	
+	catch
+	{
+		
+	}
 	
 }
