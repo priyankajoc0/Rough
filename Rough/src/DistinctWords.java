@@ -15,7 +15,7 @@ public class DistinctWords {
 		{
 			if(a[i]!=0)
 			{
-				a[pos--]= a[i];
+				a[pos--]= a[i];;
 			}
 			
 		}
