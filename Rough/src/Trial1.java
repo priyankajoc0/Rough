@@ -25,4 +25,10 @@ public class Trial1 {
 		
 		System.out.println(Arrays.toString(a));
 	}
+	
+	//im making changes here also
+	public void newMtdBySar() {
+		
+		
+	}
 }
