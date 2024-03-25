@@ -1,3 +1,10 @@
-/.metadata/
-/.class
+/target/
+/debug.log
+/.classpath
+/*.project
+/test-output/
+/.settings
 /bin/
+**/.metadata/*
+*.class
+.metadata/

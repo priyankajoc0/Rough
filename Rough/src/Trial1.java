@@ -25,6 +25,12 @@ public class Trial1 {
 		
 		System.out.println(Arrays.toString(a));
 		
-		//here im making changes 
+		
+	}
+	
+	//new mtd in dev
+	public void newMTdinDev() {
+		
+		
 	}
 }
