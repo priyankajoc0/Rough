@@ -26,6 +26,11 @@ public class Trial1 {
 		System.out.println(Arrays.toString(a));
 	}
 	
+	//mtd by sarmistha
+	public void sarinQA() {
+		
+	}
+	
 	//im making changes here also
 	public void newMtdBySar() {
 		
