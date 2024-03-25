@@ -5,6 +5,6 @@
 /test-output/
 /.settings
 /bin/
-**/metadata/*
-*/.class
-
+**/.metadata/*
+*.class
+.metadata/
