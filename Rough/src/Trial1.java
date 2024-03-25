@@ -31,12 +31,7 @@ public class Trial1 {
 		
 	}
 	
-	//im making changes here also
-	public void newMtdBySar() {
-		
-		
-	}
-	
+
 	//new mtd in p-develop
 		public void newMTdinDev() {
 			
